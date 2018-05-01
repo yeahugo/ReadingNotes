@@ -3,3 +3,4 @@
 * [职场进阶](zhichang/)
 * [婚姻亲子](hunyin/)
 * [历史文化](lishi/)
+* [投资](touzi/)
