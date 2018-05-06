@@ -12,7 +12,7 @@
 
 - [《精益创业》](chuangye/jingyichuangye/精益创业.md)
 
-- 《让大象飞》
+- [《让大象飞》](chuangye/rangdaxiangfei/让大象飞.md)
 
 ### 创新
 
